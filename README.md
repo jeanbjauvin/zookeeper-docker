@@ -77,4 +77,4 @@ You can check the [CHANGELOG](https://github.com/jeanbjauvin/kafka-zookeeper/blo
 [ZooKeeper]: https://zookeeper.apache.org/
 [on Docker Hub]: https://hub.docker.com/r/jeanbjauvin/kafka/
 [the ZooKeeper Getting Started]: https://zookeeper.apache.org/doc/trunk/ZooKeeperStarted.html
-[ZooKeeper License]: https://github.com/apache/zookeeper/blob/release-3.4.10/LICENSE.txt
+[ZooKeeper License](https://github.com/apache/zookeeper/blob/release-3.4.10/LICENSE.txt)
