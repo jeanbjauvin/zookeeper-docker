@@ -36,7 +36,7 @@ using the container as a client to run the basic producer and consumer example
 from [the Kafka Quick Start]:
 
 ```
-$ docker run -d --name ZooKeeper -p 2181:2181 -p 2888:2888 -p 3888:3888 jeanbjauvin/ZooKeeper:latest
+$ docker run -d --name ZooKeeper -p 2181:2181 -p 2888:2888 -p 3888:3888 jeanbjauvin/zookeeper:latest
 ```
 
 ### Volumes
