@@ -19,9 +19,9 @@ FROM openjdk:8-alpine
 
 LABEL maintainer="Jean Bruno JAUVIN <jeanbjauvin@gmail.com>" \
   name="ZooKeeper" \
-  version="3.4.10"
+  version="3.4.13"
 
-ENV ZOOKEEPER_VERSION=3.4.10 \
+ENV ZOOKEEPER_VERSION=3.4.13 \
   ZOOKEEPER_HOME=/zookeeper \
   ZOOKEEPER_DATADIR=/data \
   ZOOKEEPER_CONF_DIR=/zookeeper/conf \
